@@ -1,0 +1,42 @@
+{
+    "names": {
+        "1": "Dirt"
+    },
+    "max": {
+        "1": 36
+    },
+    "content": {
+        "1": [
+            {
+                "name": "Marrite",
+                "tier": 1,
+                "list_spot": 1,
+                "index_spot": 9,
+                "health": 19,
+                "value": 12,
+                "image": "Marrite.png",
+                "by": "Quantumpje"
+            },
+            {
+                "name": "Tungsten",
+                "tier": 1,
+                "list_spot": 8,
+                "index_spot": 8,
+                "health": 19,
+                "value": 13,
+                "image": "Tungsten.png",
+                "by": "Quantumpje"
+            },
+            {
+                "name": "Andesine",
+                "tier": 1,
+                "list_spot": 6,
+                "index_spot": 4,
+                "health": 19,
+                "value": 10,
+                "image": "Andesine.png",
+                "by": "Quantumpje"
+            }
+        ]
+    }
+}
