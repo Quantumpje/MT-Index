@@ -36,6 +36,26 @@
                 "value": 10,
                 "image": "Andesine.png",
                 "by": "Quantumpje"
+            },
+            {
+                "name": "Ikaite",
+                "tier": 1,
+                "list_spot": 5,
+                "index_spot": 3,
+                "health": 19,
+                "value": 12,
+                "image": "Ikaite.png",
+                "by": "Quantumpje"
+            },
+            {
+                "name": "Jacobsite",
+                "tier": 2,
+                "list_spot": 1,
+                "index_spot": 5,
+                "health": 38,
+                "value": 51,
+                "image": "Jacobsite.png",
+                "by": "Quantumpje"
             }
         ]
     }

@@ -44,7 +44,7 @@ function display_layer(id) {
         ore_div.appendChild(ore_value);
 
         let ore_spot = document.createElement("p");
-        ore_spot.innerHTML = `#${data.content[id][i].list_spot} in list and #${data.content[id][i].index_spot} in index.`;
+        ore_spot.innerHTML = `T${data.content[id][i].tier} #${data.content[id][i].list_spot} in list and #${data.content[id][i].index_spot} in index.`;
         ore_div.appendChild(ore_spot);
 
         let ore_by = document.createElement("p");
