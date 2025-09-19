@@ -8,7 +8,7 @@ function display_layer(id) {
     document.getElementById("content").appendChild(div);
 
     let title = document.createElement("h2");
-    title.innerHTML = `(${id}) ${data.names[id]} Layer.`;
+    title.innerHTML = `(Layer ${id}) ${data.names[id]}`;
     div.appendChild(title);
 
     let progress = document.createElement("p");

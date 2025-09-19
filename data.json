@@ -1,9 +1,11 @@
 {
     "names": {
-        "1": "Dirt"
+        "1": "Dirt",
+        "42": "Very Hard unnamed"
     },
     "max": {
-        "1": 36
+        "1": 36,
+        "42": 36
     },
     "content": {
         "1": [
@@ -12,8 +14,8 @@
                 "tier": 1,
                 "list_spot": 1,
                 "index_spot": 9,
-                "health": 19,
-                "value": 12,
+                "health": "19",
+                "value": "12",
                 "image": "Marrite.png",
                 "by": "Quantumpje"
             },
@@ -22,8 +24,8 @@
                 "tier": 1,
                 "list_spot": 8,
                 "index_spot": 8,
-                "health": 19,
-                "value": 13,
+                "health": "19",
+                "value": "13",
                 "image": "Tungsten.png",
                 "by": "Quantumpje"
             },
@@ -32,8 +34,8 @@
                 "tier": 1,
                 "list_spot": 6,
                 "index_spot": 4,
-                "health": 19,
-                "value": 10,
+                "health": "19",
+                "value": "10",
                 "image": "Andesine.png",
                 "by": "Quantumpje"
             },
@@ -42,9 +44,39 @@
                 "tier": 1,
                 "list_spot": 5,
                 "index_spot": 3,
-                "health": 19,
-                "value": 12,
+                "health": "19",
+                "value": "12",
                 "image": "Ikaite.png",
+                "by": "Quantumpje"
+            },
+            {
+                "name": "Tyrolite",
+                "tier": 1,
+                "list_spot": 4,
+                "index_spot": 5,
+                "health": "19",
+                "value": "11",
+                "image": "Tyrolite.png",
+                "by": "5_df2"
+            },
+            {
+                "name": "Seelite",
+                "tier": 1,
+                "list_spot": 3,
+                "index_spot": 7,
+                "health": "19",
+                "value": "9",
+                "image": "Seelite.png",
+                "by": "5_df2"
+            },
+            {
+                "name": "Cafetite",
+                "tier": 1,
+                "list_spot": 7,
+                "index_spot": 2,
+                "health": "19",
+                "value": "10",
+                "image": "Cafetite.png",
                 "by": "Quantumpje"
             },
             {
@@ -52,10 +84,32 @@
                 "tier": 2,
                 "list_spot": 1,
                 "index_spot": 5,
-                "health": 38,
-                "value": 51,
+                "health": "38",
+                "value": "51",
                 "image": "Jacobsite.png",
                 "by": "Quantumpje"
+            },
+            {
+                "name": "Paravauxite",
+                "tier": 4,
+                "list_spot": 4,
+                "index_spot": 4,
+                "health": "115",
+                "value": "249",
+                "image": "Paravauxite.png",
+                "by": "5_df2"
+            }
+        ],
+        "42": [
+            {
+                "name": "Oppenheimerite",
+                "tier": 8,
+                "list_spot": 1,
+                "index_spot": 1,
+                "health": "270sep",
+                "value": "4.69qua",
+                "image": "Oppenheimerite.png",
+                "by": "5_df2 & zarivania"
             }
         ]
     }
