@@ -90,6 +90,16 @@
                 "by": "Quantumpje"
             },
             {
+                "name": "Allactite",
+                "tier": 3,
+                "list_spot": 2,
+                "index_spot": 5,
+                "health": "77",
+                "value": "93",
+                "image": "Allactite.png",
+                "by": "ravingLOL"
+            },
+            {
                 "name": "Paravauxite",
                 "tier": 4,
                 "list_spot": 4,
