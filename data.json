@@ -1,10 +1,12 @@
 {
     "names": {
         "1": "Dirt",
+        "26": "Hard Inner Core",
         "42": "Very Hard unnamed"
     },
     "max": {
         "1": 36,
+        "26": 36,
         "42": 36
     },
     "content": {
@@ -100,6 +102,26 @@
                 "by": "ravingLOL"
             },
             {
+                "name": "Richterite",
+                "tier": 3,
+                "list_spot": 3,
+                "index_spot": 6,
+                "health": "77",
+                "value": "102",
+                "image": "Richterite.png",
+                "by": "ravingLOL"
+            },
+            {
+                "name": "Cleusonite",
+                "tier": 3,
+                "list_spot": 5,
+                "index_spot": 2,
+                "health": "77",
+                "value": "84",
+                "image": "Cleusonite.png",
+                "by": "ravingLOL"
+            },
+            {
                 "name": "Paravauxite",
                 "tier": 4,
                 "list_spot": 4,
@@ -108,6 +130,48 @@
                 "value": "249",
                 "image": "Paravauxite.png",
                 "by": "5_df2"
+            },
+            {
+                "name": "Miargyrite",
+                "tier": 4,
+                "list_spot": 1,
+                "index_spot": 3,
+                "health": "115",
+                "value": "291",
+                "image": "Miargyrite.png",
+                "by": "ravingLOL"
+            },
+            {
+                "name": "Lepidolite",
+                "tier": 4,
+                "list_spot": 3,
+                "index_spot": 2,
+                "health": "115",
+                "value": "200",
+                "image": "Lepidolite.png",
+                "by": "ravingLOL"
+            },
+            {
+                "name": "Xanthoconite",
+                "tier": 5,
+                "list_spot": 2,
+                "index_spot": 3,
+                "health": "135",
+                "value": "406",
+                "image": "Xanthoconite.png",
+                "by": "ravingLOL"
+            }
+        ],
+        "26" : [
+            {
+                "name": "Szklaryite",
+                "tier": 4,
+                "list_spot": 2,
+                "index_spot": 1,
+                "health": "54.8qua",
+                "value": "7.38B",
+                "image": "Szklaryite.png",
+                "by": "ravingLOL"
             }
         ],
         "42": [
